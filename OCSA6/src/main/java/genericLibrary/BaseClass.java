@@ -43,7 +43,7 @@ public class BaseClass {
 	@AfterClass(alwaysRun=true)
 	public void closeBrowser()
 	{
-		driver.close();
+		
 	}
 
 }
